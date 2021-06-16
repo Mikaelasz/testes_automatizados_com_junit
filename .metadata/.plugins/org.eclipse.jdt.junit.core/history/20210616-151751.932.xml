@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BonusServiceTest" project="tdd" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.alura.tdd.service.BonusServiceTest" time="0.0" displayname="BonusServiceTest" uniqueid="[engine:junit-jupiter]/[class:br.com.alura.tdd.service.BonusServiceTest]">
+    <testcase name="bonusDeveriaSerZeroParaFuncionarioComSalarioMuitoAlto" classname="br.com.alura.tdd.service.BonusServiceTest" time="0.0" displayname="bonusDeveriaSerZeroParaFuncionarioComSalarioMuitoAlto()" uniqueid="[engine:junit-jupiter]/[class:br.com.alura.tdd.service.BonusServiceTest]/[method:bonusDeveriaSerZeroParaFuncionarioComSalarioMuitoAlto()]"/>
+  </testsuite>
+</testrun>
