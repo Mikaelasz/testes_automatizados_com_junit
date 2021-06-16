@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ReajusteServiceTest" project="tdd" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.alura.tdd.service.ReajusteServiceTest" time="0.0" displayname="ReajusteServiceTest" uniqueid="[engine:junit-jupiter]/[class:br.com.alura.tdd.service.ReajusteServiceTest]">
+    <testcase name="reajusteDeveriaSerDeVintePorCentoQuandoDesempenhoForOtimo" classname="br.com.alura.tdd.service.ReajusteServiceTest" time="0.0" displayname="reajusteDeveriaSerDeVintePorCentoQuandoDesempenhoForOtimo()" uniqueid="[engine:junit-jupiter]/[class:br.com.alura.tdd.service.ReajusteServiceTest]/[method:reajusteDeveriaSerDeVintePorCentoQuandoDesempenhoForOtimo()]"/>
+    <testcase name="reajusteDeveriaSerDeTresPorCentoQuandoDesempenhoForADesejar" classname="br.com.alura.tdd.service.ReajusteServiceTest" time="0.0" displayname="reajusteDeveriaSerDeTresPorCentoQuandoDesempenhoForADesejar()" uniqueid="[engine:junit-jupiter]/[class:br.com.alura.tdd.service.ReajusteServiceTest]/[method:reajusteDeveriaSerDeTresPorCentoQuandoDesempenhoForADesejar()]"/>
+    <testcase name="reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom" classname="br.com.alura.tdd.service.ReajusteServiceTest" time="0.0" displayname="reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom()" uniqueid="[engine:junit-jupiter]/[class:br.com.alura.tdd.service.ReajusteServiceTest]/[method:reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom()]"/>
+  </testsuite>
+</testrun>
